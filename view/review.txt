@@ -1,0 +1,31 @@
+
+		<div class="explanation" id="div-journal-review" role="article">
+            <h3>Journal Review</h3>	
+			<div class="row no-margin-padding">
+				<div class="col-sm-3" style="background-color:lavender;"><strong>2015, 2016:</strong> </div>
+				<div class="col-sm-9" style="background-color:lavender;"><em>Knowledge and Information Systems (KAIS) </em></div>
+			</div>	 
+		</div>
+		<div class="explanation" id="div-conference-review" role="article">
+            <h3>Conference Review</h3>		
+			<div class="row no-margin-padding">
+				<div class="col-sm-1" style="background-color:lavender;"><strong>2016:</strong> </div>
+				<div class="col-sm-11" style="background-color:lavender;"><em> Knowledge Discovery and Data Mining (KDD)</em></div>
+			</div>	
+			<div class="row no-margin-padding">
+				<div class="col-sm-1" style="background-color:lavender;"><strong>2016:</strong> </div>
+				<div class="col-sm-11" style="background-color:lavender;"><em> American Association for Artificial Intelligence (AAAI) </em></div>
+			</div>			
+			<div class="row no-margin-padding">
+				<div class="col-sm-1" style="background-color:lavender;"><strong>2016:</strong> </div>
+				<div class="col-sm-11" style="background-color:lavender;"><em> Pacific Asia Conference on Knowledge Discovery and Data Mining (PAKDD)</em></div>
+			</div>
+			<div class="row no-margin-padding">
+				<div class="col-sm-1" style="background-color:lavender;"><strong>2016:</strong> </div>
+				<div class="col-sm-11" style="background-color:lavender;"><em> International Conference on Networking, Sensing and Control (ICNSC) </em></div>
+			</div>	 		
+			<div class="row no-margin-padding">
+				<div class="col-sm-1" style="background-color:lavender;"><strong>2015:</strong> </div>
+				<div class="col-sm-11" style="background-color:lavender;"><em> International Conference on Machine Learning (ICML)</em></div>
+			</div>
+		</div>

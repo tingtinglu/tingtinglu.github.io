@@ -1,0 +1,78 @@
+
+
+		<div class="explanation" id="div-courses4" role="article">
+            <h3>Leet Code</h3>
+			<table class="table table-bordered table-hover">
+				<thead>
+					<tr style="background-color:LightSteelBlue ;">
+						<th>Index</th>
+						<th>Question</th>
+						<th>Difficulty</th>
+						<th>Solution</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr  class="success">
+						<td>1</td>
+						<td><a href="https://leetcode.com/problems/two-sum/">Two sum</a></td>
+						<td>Medium</td>
+						<td><a href="">Java Code</a></td>
+					</tr>
+					<tr  class="info">
+						<td>2</td>
+						<td><a href="https://leetcode.com/problems/add-two-numbers/">Add Two Numbers</a></td>
+						<td>Medium</td>
+						<td><a href="">Java Code</a></td>
+					</tr>		
+					<tr  class="success">
+						<td>3</td>
+						<td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a></td>
+						<td>Medium</td>
+						<td><a href="">Java Code</a></td>
+					</tr>	
+					<tr  class="info">
+						<td>4</td>
+						<td><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">Median of Two Sorted Arrays</a></td>
+						<td>Hard</td>
+						<td><a href="">Java Code</a></td>
+					</tr>	
+					<tr  class="success">
+						<td>5</td>
+						<td><a href="https://leetcode.com/problems/longest-palindromic-substring/">Longest Palindromic Substringx</a></td>
+						<td>Medium</td>
+						<td><a href="">Java Code</a></td>
+					</tr>	
+					<tr  class="info">
+						<td>6</td>
+						<td><a href="https://leetcode.com/problems/zigzag-conversion/">ZigZag Conversion</a></td>
+						<td>Easy</td>
+						<td><a href="">Java Code</a></td>
+					</tr>	
+					<tr  class="success">
+						<td>7</td>
+						<td><a href="https://leetcode.com/problems/reverse-integer/">Reverse Integer</a></td>
+						<td>Easy</td>
+						<td><a href="">Java Code</a></td>
+					</tr>	
+					<tr  class="info">
+						<td>8</td>
+						<td><a href="https://leetcode.com/problems/string-to-integer-atoi/">String to Integer (atoi)</a></td>
+						<td>Easy</td>
+						<td><a href="">Java Code</a></td>
+					</tr>	
+					<tr  class="success">
+						<td>9</td>
+						<td><a href="https://leetcode.com/problems/palindrome-number/">Palindrome Number</a></td>
+						<td>Easy</td>
+						<td><a href="">Java Code</a></td>
+					</tr>	
+					<tr  class="info">
+						<td>10</td>
+						<td><a href="https://leetcode.com/problems/regular-expression-matching/">Regular Expression Matching</a></td>
+						<td>Hard</td>
+						<td><a href="">Java Code</a></td>
+					</tr>					
+				</tbody>
+			</table>
+		</div>			
+		

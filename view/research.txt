@@ -1,0 +1,26 @@
+		
+		<div class="explanation" id="div-project" role="article">
+            <h3>Research</h3>
+			<div class="row no-margin-padding">
+				<div class="col-sm-8" style="background-color:lavender ;"><strong>Mars Phoenix Mission Data Analysis</strong></div>
+				<div class="col-sm-4" style="background-color:lavender ;"><em>Project Lead</em></div>
+			</div>
+			<div class="row no-margin-padding">
+				<div class="col-sm-8" style="background-color:lavender;">University of Massachusetts Boston</div>
+				<div class="col-sm-4" style="background-color:lavender  ;"><em>Jan. 2015 - Present</em></div>
+			</div>	
+			<div class="row no-margin-padding">
+				<div class="col-sm-12" style="background-color:white;"><p><i class="fa fa-hand-o-right"></i> 
+				This proposed effort will use several computerized data processing and mining techniques to refine and potentially reinterpret the returned chemical analysis data from the Wet Chemistry Laboratory (WCL) on the 2007 Phoenix Mars Lander.  
+				The initial in-situ chemical analysis of the four soil samples delivered to the WCL provided concentrations of the soluble ionic species in the soil along with the pH and conductivity.  
+				Even though at first the results appeared to present a simple picture of the soluble soil chemistry, it has become clearly evident that the analyses were complicated by an unplanned titration of the soil/water mixture with barium chloride, 
+				the presence of chemical species whose signal was convoluted into other sensor readings, and the effects of temperature and noise.  
+				The combined effect of these interferences has put into question the concentrations and identity of the ionic species that were directly measured. 
+				Use of such incorrect values in conjunction with chemical speciation modeling programs will result in misinterpretation of the parent salt composition of the soil analyzed by the Phoenix WCL. 
+				In this project, we design a new data-driven learning framework to reduce the variations in the Mars soil data without changing the base mean level of the data to avoid altering the physical meaning of the data distribution. </p></div>
+			</div>				
+		</div>
+		
+		
+		
+		

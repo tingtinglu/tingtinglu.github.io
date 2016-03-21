@@ -1,0 +1,67 @@
+	 
+		<div class="explanation" id="div-courses4" role="article">
+            <h3>University of Massachusetts Boston	2016 Spring</h3>
+			<div class="row no-margin-padding">
+				<div class="col-sm-8" style="background-color:lavender ;"><strong>CS615 -- User Interface Design </strong></div>
+				<div class="col-sm-4" style="background-color:lavender ;">Gabriel Spitz</div>	
+			</div>
+			<div class="row no-margin-padding">
+				<div class="col-sm-8" style="background-color:LightSteelBlue ;"><strong>CS681 -- Object-Oriented Software Development</strong></div>
+				<div class="col-sm-4" style="background-color:LightSteelBlue ;"><a href="http://www.cs.umb.edu/~jxs/">Jun Suzuki</a></div>
+			</div>
+			<div class="row no-margin-padding">
+				<div class="col-sm-8" style="background-color:lavender ;"><strong>CS683 -- Software Development Laboratory II</strong></div>
+				<div class="col-sm-4" style="background-color:lavender ;"><a href="http://www.cs.umb.edu/~jxs/">Jun Suzuki</a></div>
+			</div>
+		</div>		
+				 
+		<div class="explanation" id="div-courses3" role="article">
+            <h3>University of Massachusetts Boston	2015 Fall</h3>
+			<div class="row no-margin-padding">
+				<div class="col-sm-8" style="background-color:lavender ;"><strong>CS622 -- Formal Languages </strong></div>
+				<div class="col-sm-4" style="background-color:lavender ;"><a href="http://www.cs.umb.edu/~dsim/">Dan A. Simovici</a></div>	
+			</div>
+			<div class="row no-margin-padding">
+				<div class="col-sm-8" style="background-color:LightSteelBlue ;"><strong>CS680 -- Object-Oriented Design and Programming</strong></div>
+				<div class="col-sm-4" style="background-color:LightSteelBlue ;"><a href="http://www.cs.umb.edu/~jxs/">Jun Suzuki</a></div>
+			</div>
+			<div class="row no-margin-padding">
+				<div class="col-sm-8" style="background-color:lavender ;"><strong>CS682 -- Software Development Laboratory I</strong></div>
+				<div class="col-sm-4" style="background-color:lavender ;"><a href="http://www.cs.umb.edu/~jxs/">Jun Suzuki</a></div>
+			</div>
+			<div class="row no-margin-padding">
+				<div class="col-sm-8" style="background-color:LightSteelBlue ;"><strong>CS752 -- Parallel Programming </strong></div>
+				<div class="col-sm-4" style="background-color:LightSteelBlue ;"><a href="http://www.cs.umb.edu/~ming/">Ming Ouyang</a></div>
+			</div>
+		</div> 
+		<div class="explanation" id="div-courses2" role="article">
+            <h3>University of Massachusetts Boston	2015 Spring</h3>
+			<div class="row no-margin-padding">
+				<div class="col-sm-8" style="background-color:lavender ;"><strong>CS420 -- Introduction to the Theory of Computation </strong></div>
+				<div class="col-sm-4" style="background-color:lavender ;"><a href="http://www.cs.umb.edu/~offner/">Carl Offner</a></div>	
+			</div>
+			<div class="row no-margin-padding">
+				<div class="col-sm-8" style="background-color:LightSteelBlue ;"><strong>CS624 -- Analysis of Algorithms </strong></div>
+				<div class="col-sm-4" style="background-color:LightSteelBlue ;"><a href="http://www.cs.umb.edu/~nurith/">Nurit Haspel</a></div>
+			</div>
+			<div class="row no-margin-padding">
+				<div class="col-sm-8" style="background-color:lavender ;"><strong>CS638 -- Applied Machine Learning </strong></div>
+				<div class="col-sm-4" style="background-color:lavender ;"><a href="http://www.cs.umb.edu/~ding/">Wei Ding</a></div>
+			</div>
+		</div>
+		<div class="explanation" id="div-courses1" role="article">
+            <h3>University of Massachusetts Boston	2014 Fall</h3>
+			<div class="row no-margin-padding">
+				<div class="col-sm-8" style="background-color:lavender ;"><strong>CS637 -- Database-Backed Web Sites and Web Services </strong></div>
+				<div class="col-sm-4" style="background-color:lavender ;"><a href="http://www.cs.umb.edu/~ding/">Wei Ding</a></div>	
+			</div>
+			<div class="row no-margin-padding">
+				<div class="col-sm-8" style="background-color:LightSteelBlue ;"><strong>CS670 -- Artificial Intelligence </strong></div>
+				<div class="col-sm-4" style="background-color:LightSteelBlue ;"><a href="http://www.cs.umb.edu/~ding/">Wei Ding</a></div>
+			</div>
+			<div class="row no-margin-padding">
+				<div class="col-sm-8" style="background-color:lavender ;"><strong>CS675 -- Computer Vision </strong></div>
+				<div class="col-sm-4" style="background-color:lavender ;"><a href="http://www.cs.umb.edu/~marc/">Marc Pomplun</a></div>
+			</div>
+		</div>	 
+		

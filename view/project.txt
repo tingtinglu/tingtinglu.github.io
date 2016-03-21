@@ -1,0 +1,103 @@
+
+		
+		
+		<div class="explanation" id="div-project" role="article">
+            <h3>Fall detection mobile application</h3>
+			<div class="row no-margin-padding">
+				<div class="col-sm-6" style="background-color:lavender;">University of Massachusetts Boston</div>
+				<div class="col-sm-3" style="background-color:lavender ;"><em>Project Lead</em></div>
+				<div class="col-sm-3" style="background-color:lavender  ;"><em>Oct. 2015 - Present</em></div>
+			</div>	
+			<div class="row no-margin-padding">
+				<div class="col-sm-12" style="background-color:white;"><p><i class="fa fa-hand-o-right"></i> An android mobile application to detect falls, using the information collected by some of mobile sensors such as the accelerometer. It has been designed for people might be under risks of falling in an isolated environment without any supervision. </p></div>
+			</div>
+		</div>	
+		<div class="explanation" id="div-e-discount" role="article">
+            <h3>E-discount</h3>	
+			<div class="row no-margin-padding">
+				<div class="col-sm-6" style="background-color:lavender;">University of Massachusetts Boston</div>
+				<div class="col-sm-3" style="background-color:lavender ;"><em>Project Lead</em></div>
+				<div class="col-sm-3" style="background-color:lavender  ;"><em>Oct. 2014 - Dec. 2014</em></div>
+			</div>	
+			<div class="row no-margin-padding">			
+				<div class="col-sm-12" style="background-color:#fff;">
+				<p><i class="fa fa-hand-o-right"></i> 
+				E-discount is platform for web based google map and data publishing mechanism and providing a map application to customers for locating nearby restaurants with great discounts. Also, provided membership system, rating and feedbacks for the restaurants for review. </p>
+				<p><i class="fa fa-link"></i> 
+				<a href="http://130.101.12.31/ediscount/">E-discount</a></p></div>	
+			</div>
+		</div>	
+		<div class="explanation" id="div-e-discount" role="article">
+            <h3>After-sale service platform</h3>
+			<div class="row no-margin-padding">
+				<div class="col-sm-6" style="background-color:lavender;">Liaoning Huiyin Science and Technology Ltd.</div>
+				<div class="col-sm-3" style="background-color:lavender ;"><em>Project Lead</em></div>
+				<div class="col-sm-3" style="background-color:lavender  ;"><em>Jun. 2011 - Nov. 2011</em></div>
+			</div>	
+			<div class="row no-margin-padding">
+				<div class="col-sm-12" style="background-color:white;"><p><i class="fa fa-hand-o-right"></i> Using the techniques of ASP.Net / MVC / jQuery / AJAX and Bing Map, designed and implemented an after-sale service platform, the system provides view of financial equipment on a map and also the real time data monitoring. In addition, the mobile phone based application, carried by services member to record GPS and path for the services provided.</p></div>
+			</div>
+		</div>	
+		<div class="explanation" id="div-e-discount" role="article">
+            <h3>GIS based Hazard Management System</h3>	
+			<div class="row no-margin-padding">
+				<div class="col-sm-6" style="background-color:lavender;">Liaoning Triexcel Co., Ltd.</div>
+				<div class="col-sm-3" style="background-color:lavender ;"><em>Project Lead</em></div>
+				<div class="col-sm-3" style="background-color:lavender;"><em>Feb. 2009 - Jun. 2011</em></div>
+			</div>	
+			<div class="row no-margin-padding">
+				<div class="col-sm-12" style="background-color:white;"><p><i class="fa fa-hand-o-right"></i> Using the techniques of ASP.Net / Oracle / Access / MS SQLSERVER / LINQ / CSS / jQuery / jQuery AJAX /ASP.Net AJAX / JSON and ArcGIS (Server, SDE and Desktop), designed overall platform for web based GIS map and data publishing mechanism. And then it was used in a geological hazard management system.</p> <p>The main function includes: PC tablet based application for hazard GPS and related hazard data collection. Data uploading and downloading between web server and PC tablet application, Site risk scoring matrix and site investigation schedules.</p></div>
+			</div>
+		</div>	
+		<div class="explanation" id="div-e-discount" role="article">
+            <h3>Bug Tracker</h3>
+			<div class="row no-margin-padding">
+				<div class="col-sm-6" style="background-color:lavender;">Liaoning Triexcel Co., Ltd.</div>
+				<div class="col-sm-3" style="background-color:lavender ;"><em>Core Participant</em></div>
+				<div class="col-sm-3" style="background-color:lavender  ;"><em>Apr. 2009 - Dec. 2009</em></div>
+			</div>	
+			<div class="row no-margin-padding">
+				<div class="col-sm-12" style="background-color:white;"><p><i class="fa fa-hand-o-right"></i> Using the techniques of ASP.Net/ AJAX/ MS SQLSERVER/ CSS and JavaScript to develop an issue tracker which helps developers to manage their projects, collaborate with team-mates and clients effectively.</p></div>
+			</div>
+		</div>	
+		<div class="explanation" id="div-e-discount" role="article">
+            <h3>Terminal Monitoring System of Bank of Anshan</h3>
+			<div class="row no-margin-padding">
+				<div class="col-sm-6" style="background-color:lavender;">Liaoning Triexcel Co., Ltd.</div>
+				<div class="col-sm-3" style="background-color:lavender ;"><em>Core Participant</em></div>
+				<div class="col-sm-3" style="background-color:lavender  ;"><em>Oct. 2008 - Mar. 2009</em></div>
+			</div>	
+			<div class="row no-margin-padding">
+				<div class="col-sm-12" style="background-color:white;"><p><i class="fa fa-hand-o-right"></i> Using the techniques of ASP.Net/ AJAX/ MS SQLSERVER / CSS / JavaScript / video conversion and Bing Map to develop a monitoring system for Bank of Anshan, including the functions :
+				<ul class="list-styled">
+					<li>Monitoring System provides information about the status of the terminal and its modules.</li>
+					<li>Control System manages remotely the terminal software, loads files of the information, and advertising, and resets or shuts down the terminal computer.</li>
+					<li>Video Monitoring System provides remotely checking and downloading surveillance videos from terminals.</li>
+				</ul>
+				</p></div>
+			</div>
+		</div>	
+		<div class="explanation" id="div-e-discount" role="article">
+            <h3>Enterprise Management Software</h3>	
+			<div class="row no-margin-padding">
+				<div class="col-sm-6" style="background-color:lavender;">Liaoning Triexcel Co., Ltd.</div>
+				<div class="col-sm-3" style="background-color:lavender ;"><em>Core Participant</em></div>
+				<div class="col-sm-3" style="background-color:lavender  ;"><em>Jul. 2008 - Jan. 2009</em></div>
+			</div>	
+			<div class="row no-margin-padding">
+				<div class="col-sm-12" style="background-color:white;"><p><i class="fa fa-hand-o-right"></i> Using the techniques of ASP.Net/ AJAX/ MS SQLSERVER/ CSS and JavaScript to realize the daily management of company personnel, including the functions of attendance checking, official or personal leaves, purchase process and cost control.</p></div>
+			</div>
+		</div>
+		<div class="explanation" id="div-car-dealer-finder" role="article">
+            <h3>Car Dealer Finder</h3>
+			<div class="row no-margin-padding">
+				<div class="col-sm-12" style="background-color:#fff;">
+				<p><i class="fa fa-hand-o-right"></i> 
+				Car dealer finder is a online web application which uses google map to provide a complete listing of local car dealerships in your area. Find the best deal on your next vehicle with online discount price quotes on car, truck, SUV, and minivan models. Search for local car dealers by make or region with our comprehensive dealership network and avoid the common hassles associated with car shopping. </p>
+				<p><i class="fa fa-link"></i> 
+				<a href="/FindCarDealers.html">FindCarDealers</a></p></div>
+			</div>
+			<div class="embed-responsive embed-responsive-16by9">
+				<iframe class="embed-responsive-item" src="http://www.cs.umb.edu/~yong/FindCarDealers.html"></iframe>
+			</div>	
+		</div>	

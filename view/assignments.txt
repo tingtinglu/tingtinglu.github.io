@@ -1,0 +1,131 @@
+	 
+		<div class="explanation" id="div-courses4" role="article">
+            <h3>CS681 2016 Spring</h3>
+			<table class="table table-bordered table-hover">
+				<thead>
+					<tr style="background-color:LightSteelBlue ;">
+						<th>Lecture Note</th>
+						<th>Assignment</th>
+						<th>Solution</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr  class="info">
+						<td><a href="https://github.com/Yong-Zhuang/Courses/blob/master/CS681_2016/notes/note02.pdf">Note 2</a></td>
+						<td>Homework 1</td>
+						<td></td>
+					</tr>
+					<tr  class="success">
+						<td><a href="https://github.com/Yong-Zhuang/Courses/blob/master/CS681_2016/notes/note02.pdf">Note 2</a></td>
+						<td>Homework 2</td>
+						<td></td>
+					</tr>
+					<tr  class="info">
+						<td><a href="https://github.com/Yong-Zhuang/Courses/blob/master/CS681_2016/notes/note02.pdf">Note 2</a></td>
+						<td>Homework 3</td>
+						<td></td>
+					</tr>
+					<tr  class="success">
+						<td><a href="https://github.com/Yong-Zhuang/Courses/blob/master/CS681_2016/notes/note02.pdf">Note 2</a></td>
+						<td>Homework 4</td>
+						<td></td>
+					</tr>
+					<tr  class="info">
+						<td><a href="https://github.com/Yong-Zhuang/Courses/blob/master/CS681_2016/notes/note02.pdf">Note 2</a></td>
+						<td>Homework 5</td>
+						<td></td>
+					</tr>
+					<tr  class="info">
+						<td><a href="https://github.com/Yong-Zhuang/Courses/blob/master/CS681_2016/notes/note03.pdf">Note 3</a></td>
+						<td>Homework 6</td>
+						<td></td>
+					</tr>
+				</tbody>
+			</table>
+		</div>		
+	
+		<div class="explanation" id="div-courses4" role="article">
+            <h3>CS680 2015 Fall</h3>
+			<table class="table table-bordered table-hover">
+				<thead>
+					<tr style="background-color:LightSteelBlue ;">
+						<th>Lecture Note</th>
+						<th>Assignment</th>
+						<th>Solution</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr  class="info">
+						<td><a href="https://github.com/Yong-Zhuang/Courses/tree/master/CS680_2015/hw2/note02.pdf">Note 2</a></td>
+						<td>Homework 2-2</td>
+						<td><a href="https://github.com/Yong-Zhuang/Courses/tree/master/CS680_2015/hw2/CS680-HW2-2">Java Code</a></td>
+					</tr>
+					<tr  class="success">
+						<td><a href="https://github.com/Yong-Zhuang/Courses/tree/master/CS680_2015/hw3/note03.pdf">Note 3</a></td>
+						<td>Homework 3-2</td>
+						<td><a href="https://github.com/Yong-Zhuang/Courses/tree/master/CS680_2015/hw3/CS680-HW3-1">Java Code</a></td>
+					</tr>
+					<tr  class="info">
+						<td><a href="https://github.com/Yong-Zhuang/Courses/tree/master/CS680_2015/hw4/note04.pdf">Note 4</a></td>
+						<td>Homework 2-2</td>
+						<td><a href="https://github.com/Yong-Zhuang/Courses/tree/master/CS680_2015/hw4/CS680-HW4-1">Java Code</a></td>
+					</tr>
+					<tr  class="success">
+						<td><a href="https://github.com/Yong-Zhuang/Courses/tree/master/CS680_2015/hw5/note05.pdf">Note 5</a></td>
+						<td>Homework 3-2</td>
+						<td><a href="https://github.com/Yong-Zhuang/Courses/tree/master/CS680_2015/hw5/CS680-HW5-1">Java Code</a></td>
+					</tr>
+					<tr  class="info">
+						<td><a href="https://github.com/Yong-Zhuang/Courses/tree/master/CS680_2015/hw6/note06.pdf">Note 6</a></td>
+						<td>Homework 2-2</td>
+						<td><a href="https://github.com/Yong-Zhuang/Courses/tree/master/CS680_2015/hw6/CS680-HW6-1">Java Code</a></td>
+					</tr>
+					<tr  class="success">
+						<td><a href="https://github.com/Yong-Zhuang/Courses/tree/master/CS680_2015/hw7/note07.pdf">Note 7</a></td>
+						<td>Homework 3-2</td>
+						<td><a href="https://github.com/Yong-Zhuang/Courses/tree/master/CS680_2015/hw7/CS680-HW7-1">Java Code</a></td>
+					</tr>
+					<tr  class="info">
+						<td><a href="https://github.com/Yong-Zhuang/Courses/tree/master/CS680_2015/hw8/note08.pdf">Note 8</a></td>
+						<td>Homework 2-2</td>
+						<td><a href="https://github.com/Yong-Zhuang/Courses/tree/master/CS680_2015/hw8/CS680-HW8-1">Java Code</a></td>
+					</tr>
+					<tr  class="success">
+						<td><a href="https://github.com/Yong-Zhuang/Courses/tree/master/CS680_2015/hw9/note09.pdf">Note 9</a></td>
+						<td>Homework 3-2</td>
+						<td><a href="https://github.com/Yong-Zhuang/Courses/tree/master/CS680_2015/hw9/CS680-HW9-2">Java Code</a></td>
+					</tr>
+					<tr  class="info">
+						<td><a href="https://github.com/Yong-Zhuang/Courses/tree/master/CS680_2015/hw11/note11.pdf">Note 11</a></td>
+						<td>Homework 2-2</td>
+						<td><a href="https://github.com/Yong-Zhuang/Courses/tree/master/CS680_2015/hw11">Java Code</a></td>
+					</tr>
+					<tr  class="success">
+						<td><a href="https://github.com/Yong-Zhuang/Courses/tree/master/CS680_2015/hw14/note14.pdf">Note 14</a></td>
+						<td>Homework 3-2</td>
+						<td><a href="https://github.com/Yong-Zhuang/Courses/tree/master/CS680_2015/hw14/CS680-HW14-1">Java Code</a></td>
+					</tr>
+					<tr  class="info">
+						<td><a href="https://github.com/Yong-Zhuang/Courses/tree/master/CS680_2015/hw15/note15.pdf">Note 15</a></td>
+						<td>Homework 2-2</td>
+						<td><a href="https://github.com/Yong-Zhuang/Courses/tree/master/CS680_2015/hw15/CS680-HW15-1">Java Code</a></td>
+					</tr>
+					<tr  class="success">
+						<td><a href="https://github.com/Yong-Zhuang/Courses/tree/master/CS680_2015/hw16/note16.pdf">Note 16</a></td>
+						<td>Homework 3-2</td>
+						<td><a href="https://github.com/Yong-Zhuang/Courses/tree/master/CS680_2015/hw16">Java Code</a></td>
+					</tr>
+					<tr  class="info">
+						<td><a href="https://github.com/Yong-Zhuang/Courses/tree/master/CS680_2015/hw17/note17.pdf">Note 17</a></td>
+						<td>Homework 2-2</td>
+						<td><a href="https://github.com/Yong-Zhuang/Courses/tree/master/CS680_2015/hw17/CS680-HW17-1">Java Code</a></td>
+					</tr>
+					<tr  class="success">
+						<td><a href="https://github.com/Yong-Zhuang/Courses/tree/master/CS680_2015/hw18/note18.pdf">Note 18</a></td>
+						<td>Homework 3-2</td>
+						<td><a href="https://github.com/Yong-Zhuang/Courses/tree/master/CS680_2015/hw18">Java Code</a></td>
+					</tr>
+				</tbody>
+			</table>
+		</div>		
+	
