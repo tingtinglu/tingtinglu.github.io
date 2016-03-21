@@ -1,0 +1,274 @@
+/* css Zen Garden submission 080 - 'Zen Pool', by Clinton Barth http://www.516media.com/ */
+/* css released under Creative Commons License - http://creativecommons.org/licenses/by-nc-sa/1.0/  */
+/* All associated graphics copyright 2004, Clinton Barth */
+/* Added: February 15th, 2004 */
+
+/* IMPORTANT */
+/* This design is not a template. You may not reproduce it elsewhere without the 
+   designer's written permission. However, feel free to study the CSS and use 
+   techniques you learn from it elsewhere. */
+
+
+
+/* common styles
+----------------------------------------------- */
+body {
+background: #474747;
+font-family: "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, 	helvetica, sans-serif;
+margin: 0px;
+padding: 0px;
+color: #000;
+overflow-x:hidden;
+}
+li{
+    line-height: 1.3em;
+    padding-top: 5px;
+    margin-bottom: 5px;
+}
+.float-right{
+	float:right;
+}
+.no-margin-padding{
+	margin:0px;
+	padding:0px;
+}
+.list-styled{	
+    list-style-type: square;
+}
+/* layout
+----------------------------------------------- */
+.page-wrapper {
+position: relative;
+background: #9cf;
+margin: 0px auto;
+padding: 0px;
+width: 1000px;
+border: 5px solid #fff;
+}
+.preamble, .explanation, .participation, .benefits, .requirements {
+margin: 0px 0 0 270px;
+width: 700px;
+background: transparent; 
+}
+
+footer {
+margin: 25px 0 0 0;
+height: 1.5em;
+text-align: right;
+border-top: 1px solid #fff;
+background-color:rgb(0,43,72);
+}
+
+.sidebar {
+position: absolute;
+width: 250px;
+top: 15em;
+left: 0px;
+border-top: 1px solid #fff;
+}
+
+
+/* header
+----------------------------------------------- */
+
+header {
+	background: url(bg_head.jpg) 0px 0px no-repeat;
+	height: 200px;
+	margin: 0;
+	border-bottom: 5px solid #fff; text-align:center;
+	}
+
+header img {
+	float:left;
+	margin:15px;
+	}
+
+header ul {
+	float:left; padding-top:40px;
+	}
+
+header li a, header li a:link, header li a:visited {
+	color:#000; font-weight:bolder; text-decoration:none;
+	}
+
+
+/* text
+----------------------------------------------- */
+p {
+font-size: 12px;
+padding: 5px 5px 10px 5px;
+margin: 0 ;
+line-height: 16px;
+}
+
+.summary p:first-child {
+margin: 0;
+padding: 40px 35px 25px 28px;
+font-size: 11px;
+}
+
+.summary p:last-child {
+margin-top: 48em;
+padding: 30px 30px 20px 28px;
+font-size: 11px;
+}
+
+
+
+/* headings
+----------------------------------------------- */
+.intro h3 {
+margin: 10px 0 0 0;
+padding: 0;
+width: 650px;
+height: 35px;
+border: 1px solid #fff;
+}
+
+.supporting h3 {
+margin: 10px 0 0 0;
+padding: 0;
+width: 700px;
+height: 25px;
+border: 1px solid #fff;
+background-color:rgb(41,143,191);
+}
+.supporting{
+	min-height:1070px;
+}
+.sidebar h3 {
+height: 25px;
+margin: 0px 0 0 0;
+padding: 0px;
+}
+
+h3 {	
+    font: 100% georgia, sans-serif !important;
+	padding: 3px 0px 0px 10px !important;
+	font-weight:bolder !important;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+.preamble h3 {
+}
+
+.explanation em {
+	font-size:12px;
+}
+
+
+.participation h3 {
+}
+
+.benefits h3 {
+}
+
+.requirements h3 {
+}
+
+.design-selection h3 {
+
+margin: 15px 0 0 5px;
+}
+
+
+
+
+/* lists
+----------------------------------------------- */
+.sidebar ul {
+font-size: 12px;
+list-style: none;
+margin: 2px 0 0 0px;
+padding: 0 0 0 0;
+}
+
+.sidebar ul li {
+background: transparent;
+margin: 0;
+padding: 0 0 0 10px;
+line-height: 14px;
+color: #369;
+}
+
+.sidebar .design-selection {
+border-bottom: 1px solid #fff;
+padding-bottom: 25px;
+}
+
+
+.sidebar .design-selection a:link, .sidebar .design-selection a:visited { display: block; }
+
+.sidebar .design-selection a.designer-name:link, .sidebar .design-selection a.designer-name:visited { display:inline; }
+
+
+/* links
+----------------------------------------------- */
+
+a, a:link, a:visited {
+color: #369;
+text-decoration: underline;
+font-weight: normal;
+}
+
+a:hover {
+color: #fff;
+text-decoration: none;
+font-weight: normal;
+}
+
+.summary a, .summary a:link, .summary a:visited {
+font-weight: bold;
+text-decoration: underline;
+color: #369;
+}
+
+.summary a:hover {
+font-weight: bold;
+text-decoration: none;
+color: #fff;
+}
+
+
+.sidebar a, .sidebar a:link, .sidebar a:visited {
+color: #000;
+text-decoration: none;
+}
+
+.sidebar a:hover {
+text-decoration: none;
+color: #000;
+}
+
+.sidebar a.designer-name, .sidebar a.designer-name:link, .sidebar a.designer-name:visited {
+color: #369;
+text-decoration: none;
+}
+
+.sidebar a.designer-name:hover {
+text-decoration: none;
+color: #fff;
+}
+
+footer a, footer a:link, footer a:visited {
+text-decoration: none;
+color: #fff;
+font-size: 12px;
+padding: 0 20px 0 0;
+}
+
+footer a:hover {
+text-decoration: none;
+color: #9cf;
+}
+
+#head-title
+{
+	font-family: 'Chiller','Papyrus','Comic Sans MS';
+    font-weight: 900;
+    font-size: 12rem;
+	margin:50px auto;
+    color: rgba(0, 0, 0, 0.7);	
+	z-index:-1; 
+}

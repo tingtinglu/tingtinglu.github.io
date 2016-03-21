@@ -1,0 +1,329 @@
+
+/* basic elements */
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font: 75% georgia, sans-serif !important;
+    line-height: 1.88889;
+    color: #555753;
+    margin: 0;
+    padding: 0;overflow-x: hidden; background-color:#dbe9d8;
+}
+
+p {
+    margin-top: 0;
+    text-align: justify;
+}
+
+
+
+a:link {
+    font-weight: bold;
+    text-decoration: none;
+    color: #856046;
+}
+
+a:visited {
+    font-weight: bold;
+    text-decoration: none;
+    color: #856046;
+}
+
+a:hover, a:focus, a:active {
+    text-decoration: underline;
+    color: #9685BA;
+}
+
+abbr {
+    border-bottom: none;
+}
+
+dd {
+    font-weight: normal;
+    font-style: italic;
+}
+
+dt {
+    font-weight: bold;
+}
+
+li {
+    line-height: 1.3em;
+    padding-top: 5px;
+    margin-bottom: 5px;
+    list-style-type: none;
+}
+
+ol li {
+    list-style-type: lower-roman;
+}
+
+table {
+    border-spacing: 0;   
+    margin:10px;
+    border-style: groove;
+    border-width: 4px 0 0 4px;
+    border-color: #cdbff1;
+}
+
+td {
+    text-align:left;
+    line-height: 23px;
+    padding:5px;
+    border-style:groove ;
+    border-width: 0 4px 4px 0px;
+    border-color: #cdbff1;
+}
+
+th {
+    height: 28px;
+    line-height: 28px;
+    font-weight: normal;
+    text-align: center;
+    font-weight:bolder;
+    border-style: groove;
+    border-width: 0 4px 4px 0px;
+    border-color: #cdbff1;
+}
+
+iframe {
+    width: 80%;
+}
+
+/* specific divs */
+.page-wrapper {
+    /*background: url(zen-bg.jpg) no-repeat 0px 0px;*/
+    padding: 0 200px 0 110px;  
+    margin: 0;
+    position: relative;
+}
+
+.intro {
+    min-width: 470px; 
+    width: 100%;
+}
+
+
+header h2 {
+    background: transparent url(h2.gif) no-repeat top left;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 400px;
+    height: 18px;
+    float: right;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+header {
+    padding-top: 20px;
+    clear:both;
+	width:100%;
+}
+
+.profile {
+    margin: 20px 40px 20px 10px;
+    width: 315px;
+    float: left;
+    box-shadow: 1px 1px 10px #b0aac2;
+	background-color:#fff;
+}
+
+    .profile p {
+        font: italic 1.1em/2.2 georgia;
+        text-align: center;
+		display:block;
+		clear:none;
+    }
+
+	.profile h1 {
+    background: transparent url(h1.gif) no-repeat 40px 0px;
+    margin-top: 10px;
+    display: block;
+    width: 315px;
+    height: 87px;
+    float: left;
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+	}
+.preamble {
+    clear: right;
+    padding: 0px 10px 0 10px;
+}
+
+.context {
+    padding: 50px 50px 0px 50px;
+    margin-bottom: 40px;
+    min-height: 750px;
+}
+
+    .context:before {
+        visibility: visible;
+        z-index: -1;
+        content: " Yong Zhuang";
+        display: block;
+        position: absolute;
+        top: -0.3em;
+        bottom: 0;
+        left: 1.3em;
+        right: 0.5em;
+        margin: auto; /*right: 25%;*/
+        font-family: 'Chiller','Papyrus','Comic Sans MS';
+        font-weight: 900;
+        font-size: 25rem;
+        color: #666600;
+        width: 70%;
+        height: 2em;
+        line-height: 1;
+        -ms-transform: rotate(0deg); /* IE 9 */
+        -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+        transform: rotate(10deg);
+        -webkit-mask-image: url(bg.png);
+        -o-mask-image: url(bg.png);
+        -moz-mask-image: url(bg.png);
+        mask-image: url(bg.png);
+
+    }
+
+/*-------------------------------------------    
+	Animations
+-------------------------------------------*/
+@-webkit-keyframes Rotate {
+    0% {
+        -ms-transform: rotate(0deg); /* IE 9 */
+        -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+        transform: rotate(0deg);
+        opacity: 1;
+    }
+
+    25% {
+        -ms-transform: rotate(0deg); /* IE 9 */
+        -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+        transform: rotate(0deg);
+        opacity: 1;
+    }
+
+    50% {
+        -ms-transform: rotate(0deg); /* IE 9 */
+        -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+        transform: rotate(0deg);
+        opacity: 1 ;
+    }
+
+    75% {
+        -ms-transform: rotate(0deg); /* IE 9 */
+        -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+        transform: rotate(0deg);
+        opacity: 1;
+    }
+
+    100% {
+        -ms-transform: rotate(0deg); /* IE 9 */
+        -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+        transform: rotate(0deg);
+        opacity: 1;
+    }
+}
+
+@media handheld {
+    .context {
+        height: auto;
+        min-height: 570px;
+    }
+
+        .context:before {
+            width: auto;
+            font-size: 10rem;
+        }
+}
+
+footer {
+	clear:both;
+    text-align: center; 
+	margin:5px; 
+}
+
+    footer a:link, footer a:visited {
+        margin-right: 20px;
+    }
+
+.sidebar {
+    margin-left: 600px;
+    position: absolute;
+    top: 0;
+    right: 50px;
+}
+
+    .sidebar .wrapper {
+        font: 14px verdana, sans-serif;
+       
+        padding: 10px 10px 10px 0px;
+        margin-top: 150px;
+        width: 250px;
+        min-height: 700px;
+		background-color:#c2d4d8;
+    }
+
+    .sidebar h3.select {
+        background: transparent url(h3.gif) no-repeat 20px 0px;
+        margin: 10px 0 5px 0;
+        width: 127px;
+        height: 20px;
+        text-indent: 100%;
+        white-space: nowrap;
+        overflow: hidden;
+    }
+
+    .sidebar h3.archives {
+        background: transparent url(h5.gif) no-repeat top left;
+        margin: 25px 0 5px 0;
+        width: 57px;
+        height: 14px;
+        text-indent: 100%;
+        white-space: nowrap;
+        overflow: hidden;
+    }
+
+    .sidebar h3.resources {
+        background: transparent url(h6.gif) no-repeat top left;
+        margin: 25px 0 5px 0;
+        width: 63px;
+        height: 10px;
+        text-indent: 100%;
+        white-space: nowrap;
+        overflow: hidden;
+    }
+
+
+    .sidebar ul {
+        margin: 0;
+        padding: 0;
+    }
+
+    .sidebar li {
+        list-style-type: none;
+        display: block;
+		padding-left:30px;
+    }
+
+        .sidebar li a:link {
+            color: #988F5E;
+        }
+
+        .sidebar li a:visited {
+            color: #B3AE94;
+        }
+
+
+.extra1 {
+    background: transparent url(cr2.gif) top left no-repeat;
+    position: absolute;
+    top: 40px;
+    right: 50px;
+    width: 148px;
+    height: 110px;
+}
