@@ -1,7 +1,7 @@
 		<div class="explanation" id="div-information" role="article">
             <h3>Who am I?</h3>
 			<div class="row no-margin-padding">
-				<div class="col-sm-12" style="background-color:white;"><p><i class="fa fa-hand-o-right"></i> I am is a Graduate student of Computer Science at the University of Massachusetts at Boston. In the past 6 years, I worked as a software engineer in China, which helps me get accumulated substantial hands-on expertise on designing and writing code in both the client-side and server-side.  I reveived my B.S. in Computer Science from the Harbin Engineering University in Harbin, China.</p></div>
+				<div class="col-sm-12" style="background-color:white;"><p><i class="fa fa-hand-o-right"></i> I am a Graduate student of Gudience, Navigation and Control at Beihang University in Beihang, Chian. I reveived my B.S. in Computer Science from China University of Mining and Technology in Xuzhou, China.</p></div>
 			</div>
 		</div>
 		
